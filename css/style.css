@@ -1,0 +1,79 @@
+/* My Times Stylesheet */
+
+/* ---- Header Section ---- */
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	border-bottom: 1px solid black;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	padding: 5px 5px 5px 20px;
+	color: MediumAquamarine;
+}
+
+.logo h3 {
+	padding-left: 10px;
+}
+
+.nav {
+	
+	padding-right: 40px;
+	
+}
+
+.nav a {
+	color: black;
+	padding: 20px;
+}
+
+/* ---- Main Section ---- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

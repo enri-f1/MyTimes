@@ -10,6 +10,11 @@
 	font-size: 14px;
 	font-weight: bold;
 	border-bottom: 1px solid black;
+	z-index: 10;
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	margin-top: -8px;
 	
 }
 
@@ -41,6 +46,8 @@
 .main {
 	/*border: 1px solid red;*/
 	display: flex;
+	position: relative;
+	top: 60px;
 	
 }
 
@@ -184,6 +191,7 @@ li {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
+	position: relative;
 }
 
 .footer h4 {
